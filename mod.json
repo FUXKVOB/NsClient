@@ -11,7 +11,7 @@
       "id": "nsclient-hud",
       "name": "NsClient HUD Core",
       "jar": "nsclient-hud-0.1.0.jar",
-      "jarUrl": "https://github.com/FUXKVOB/NsClient/releases/download/v0.1.0/nsclient-hud-0.1.0.jar",
+      "jarUrl": "https://github.com/FUXKVOB/NsClient/releases/download/v0.1.0-beta/nsclient-hud-0.1.0.jar",
       "required": true,
       "description": "HUD с CPS, FPS, Keystrokes и таймером сессии"
     }
